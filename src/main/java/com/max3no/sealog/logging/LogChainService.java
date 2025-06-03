@@ -12,6 +12,11 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.util.Base64;
 import java.util.concurrent.atomic.AtomicReference;
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
 
 @Service
 public class LogChainService {

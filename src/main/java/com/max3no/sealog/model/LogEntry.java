@@ -2,6 +2,12 @@ package com.max3no.sealog.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
+
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class LogEntry {
 

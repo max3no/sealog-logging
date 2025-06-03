@@ -4,6 +4,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
 
 public class HashGenerator {
 

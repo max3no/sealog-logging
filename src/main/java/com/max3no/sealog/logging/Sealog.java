@@ -6,6 +6,12 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
+
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented

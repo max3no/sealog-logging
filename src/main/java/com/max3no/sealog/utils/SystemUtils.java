@@ -2,6 +2,12 @@ package com.max3no.sealog.utils;
 
 import java.net.InetAddress;
 
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
+
 public class SystemUtils {
     public static String getHostName() {
         try {

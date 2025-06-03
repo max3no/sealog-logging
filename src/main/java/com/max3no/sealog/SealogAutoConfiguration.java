@@ -11,6 +11,12 @@ import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import com.max3no.sealog.logging.LogChainService;
 
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
+
 @AutoConfiguration
 @ConditionalOnProperty(name = "sealog.enabled", havingValue = "true", matchIfMissing = true)
 public class SealogAutoConfiguration {

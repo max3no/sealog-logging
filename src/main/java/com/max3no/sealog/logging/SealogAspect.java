@@ -12,6 +12,12 @@ import java.time.Instant;
 import static com.max3no.sealog.utils.IpUtils.getClientIp;
 import static com.max3no.sealog.utils.SystemUtils.getHostName;
 
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
+
 @Aspect
 @Component
 @Order(1)

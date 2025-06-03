@@ -9,6 +9,12 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+ * Sealog Logging Framework
+ * Created by Max3no - https://github.com/max3no/sealog-logging
+ * Licensed under MIT
+ */
+
 public class LogVerifier {
 
     private final ObjectMapper mapper = new ObjectMapper();
