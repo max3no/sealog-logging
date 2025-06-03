@@ -112,6 +112,12 @@ public class UserService {
 <p>Created and maintained by <strong>Vai</strong>. Open issues or questions? Feel free to reach out via GitHub Issues.</p>
 
 <hr/>
+## 🛠 Disclaimer
+
+**This is a work in progress** — feedback, ideas, and contributions are welcome!  
+If you find bugs, have feature suggestions, or want to improve the project, feel free to open an issue or pull request.
+
+👉 Star the repo if you find it useful!
 
 <h3>Thank you for using Sealog-Logging!<br/>
 
